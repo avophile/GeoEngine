@@ -1,6 +1,6 @@
 # GeoEngine
 
-> My marvelous Nuxt.js project
+> A demo for Svante
 
 ## Build Setup
 

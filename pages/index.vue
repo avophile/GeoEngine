@@ -17,7 +17,7 @@
           Documentation
         </a>
         <a
-          href="https://github.com/nuxt/nuxt.js"
+          href="https://github.com/avophile/GeoEngine"
           target="_blank"
           class="button--grey"
         >
@@ -46,6 +46,7 @@ export default {
   justify-content: center;
   align-items: center;
   text-align: center;
+  background-image:"~/static/Dorian_from_sci_am_blog.jpg";
 }
 
 .title {
